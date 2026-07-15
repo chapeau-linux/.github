@@ -7,3 +7,4 @@ An independent Linux distribution delivering a quality-assured rolling release.
 | Repository | Description |
 |------------|-------------|
 | `.github` | Organization-wide community health files and GitHub configuration. |
+| `documentation` | Official documentation for the Chapeau Linux project. |
