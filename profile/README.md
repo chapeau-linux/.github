@@ -6,5 +6,5 @@ An independent Linux distribution delivering a validated rolling-release operati
 
 | Repository | Description |
 |------------|-------------|
-| [.github](../.github) | Organization-wide community health files and GitHub configuration. |
-| [documentation](../documentation) | Official documentation for the Chapeau Linux project. |
+| [.github](https://github.com/chapeau-linux/.github) | Organization-wide community health files and GitHub configuration. |
+| [documentation](https://github.com/chapeau-linux/documentation) | Official documentation for the Chapeau Linux project. |
